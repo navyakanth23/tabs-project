@@ -12,4 +12,4 @@ This project demonstrates a **basic tabs interface** using HTML, CSS, and JavaSc
 - 🧠 Pure JavaScript (no frameworks)
 
 ---
-#
+#https://roadmap.sh/projects/simple-tabs
